@@ -1,0 +1,5 @@
+iphone,苹果
+home,回家
+apple,苹果
+cat,猫
+2,2
